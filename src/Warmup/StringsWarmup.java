@@ -1,3 +1,4 @@
+package Warmup;
 public class StringsWarmup {
     public static void main(String args[]){
         System.out.println(countVowels("Ontario"));

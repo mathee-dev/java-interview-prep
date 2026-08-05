@@ -1,3 +1,4 @@
+package Warmup;
 public class SyntaxWarmup {
     public static void main(String[] args) {
         System.out.println(classifyNumber(-5));
